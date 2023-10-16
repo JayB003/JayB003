@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JayB003
 - 👀 I’m interested in Python,HTML,CSS...
 - 🌱 I’m currently learning Python...
-- 💞️ I’m looking to collaborate on python Projects
+- 💞️ I’m looking to collaborate on python and HTML Projects
   
 
 <!---
